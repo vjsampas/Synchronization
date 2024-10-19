@@ -114,7 +114,7 @@ public class FolderSyncronization
     private static void Log(string logMessage)
     {
         Console.WriteLine(logMessage);
-        //File.AppendAllText(logFilePath, DateTime.Now + logMessage + Environment.NewLine);
+        File.AppendAllText(logFilePath, DateTime.Now + logMessage + Environment.NewLine);
     }
 
 }
