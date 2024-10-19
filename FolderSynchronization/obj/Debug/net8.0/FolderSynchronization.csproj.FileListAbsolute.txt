@@ -1,0 +1,14 @@
+/Users/vijay.gade/Synchronization/FolderSynchronization/bin/Debug/net8.0/FolderSynchronization
+/Users/vijay.gade/Synchronization/FolderSynchronization/bin/Debug/net8.0/FolderSynchronization.deps.json
+/Users/vijay.gade/Synchronization/FolderSynchronization/bin/Debug/net8.0/FolderSynchronization.runtimeconfig.json
+/Users/vijay.gade/Synchronization/FolderSynchronization/bin/Debug/net8.0/FolderSynchronization.dll
+/Users/vijay.gade/Synchronization/FolderSynchronization/bin/Debug/net8.0/FolderSynchronization.pdb
+/Users/vijay.gade/Synchronization/FolderSynchronization/obj/Debug/net8.0/FolderSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vijay.gade/Synchronization/FolderSynchronization/obj/Debug/net8.0/FolderSynchronization.AssemblyInfoInputs.cache
+/Users/vijay.gade/Synchronization/FolderSynchronization/obj/Debug/net8.0/FolderSynchronization.AssemblyInfo.cs
+/Users/vijay.gade/Synchronization/FolderSynchronization/obj/Debug/net8.0/FolderSynchronization.csproj.CoreCompileInputs.cache
+/Users/vijay.gade/Synchronization/FolderSynchronization/obj/Debug/net8.0/FolderSynchronization.dll
+/Users/vijay.gade/Synchronization/FolderSynchronization/obj/Debug/net8.0/refint/FolderSynchronization.dll
+/Users/vijay.gade/Synchronization/FolderSynchronization/obj/Debug/net8.0/FolderSynchronization.pdb
+/Users/vijay.gade/Synchronization/FolderSynchronization/obj/Debug/net8.0/FolderSynchronization.genruntimeconfig.cache
+/Users/vijay.gade/Synchronization/FolderSynchronization/obj/Debug/net8.0/ref/FolderSynchronization.dll
